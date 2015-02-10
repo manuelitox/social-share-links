@@ -1,0 +1,62 @@
+.social-share-links .link-twitter {
+  background-color: #52a7e7;
+  color: white;
+  display: inline-block;
+  line-height: 40px;
+  margin: 5px;
+  padding: 0 10px;
+  text-decoration: none;
+}
+.social-share-links .link-twitter:hover {
+  background-color: #3799e3;
+}
+.social-share-links .link-facebook {
+  background-color: #45619d;
+  color: white;
+  display: inline-block;
+  line-height: 40px;
+  margin: 5px;
+  padding: 0 10px;
+  text-decoration: none;
+}
+.social-share-links .link-facebook:hover {
+  background-color: #3c5488;
+}
+.social-share-links .link-tumblr {
+  background-color: #36465d;
+  color: white;
+  display: inline-block;
+  line-height: 40px;
+  margin: 5px;
+  padding: 0 10px;
+  text-decoration: none;
+}
+.social-share-links .link-tumblr:hover {
+  background-color: #2b374a;
+}
+.social-share-links .link-googleplus {
+  background-color: #d73d32;
+  color: white;
+  display: inline-block;
+  line-height: 40px;
+  margin: 5px;
+  padding: 0 10px;
+  text-decoration: none;
+}
+.social-share-links .link-googleplus:hover {
+  background-color: #c43126;
+}
+.social-share-links .link-linkedin {
+  background-color: #069;
+  color: white;
+  display: inline-block;
+  line-height: 40px;
+  margin: 5px;
+  padding: 0 10px;
+  text-decoration: none;
+}
+.social-share-links .link-linkedin:hover {
+  background-color: #00527a;
+}
+
+/*# sourceMappingURL=social-share-links.css.map */

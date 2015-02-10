@@ -1,0 +1,25 @@
+@import "vars";
+
+@mixin gen-social-links($name, $color) {
+	.link-#{$name} {
+		background-color: $color;
+		color: white;
+		display: inline-block;
+		line-height: 40px;
+		margin: 5px;
+		padding: 0 10px;
+		text-decoration: none;
+
+		&:hover {
+			background-color: darken($color, 6%);
+		}
+	}
+}
+
+.social-share-links {
+	@include gen-social-links("twitter", map-get($colors, twitter));
+	@include gen-social-links("facebook", map-get($colors, facebook));	
+	@include gen-social-links("tumblr", map-get($colors, tumblr));
+	@include gen-social-links("googleplus", map-get($colors, googleplus));	
+	@include gen-social-links("linkedin", map-get($colors, linkedin));	
+}
