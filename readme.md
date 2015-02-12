@@ -2,7 +2,7 @@
 
 Pequeño conjunto de enlaces a redes sociales (Twitter, Facebook, Tumblr, Linkedin, Google+) para compartir contenido sin usar los botones por defecto.
 
-La razón de ser de este proyecto la pueden encontrar en [LINK]
+La razón de ser de este proyecto la pueden encontrar en [Enlaces para compartir contenido sobre botones sociales](http://manuelitox.com/notas/9-enlaces-para-compartir-contenido-sobre-botones-sociales).
 
 ## Instalación: 
 
