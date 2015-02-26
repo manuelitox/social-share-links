@@ -1,10 +1,27 @@
 //
-// Variables:
+// maps to social networks:
 
-$colors: (
-	"twitter": #52a7e7,
-	"facebook": #45619d,
-	"tumblr": #36465d,
-	"googleplus": #d73d32,
-	"linkedin": #069 
+$twitter: (
+	name: 'twitter',
+	color: #52a7e7
+);
+
+$facebook: (
+	name: 'facebook',
+	color: #45619d
+);
+
+$tumblr: (
+	name: 'tumblr',
+	color: #36465d 
+);
+
+$googleplus: (
+	name: 'googleplus',
+	color: #d73d32
+);
+
+$linkedin: (
+	name: 'linkedin',
+	color: #069
 );
